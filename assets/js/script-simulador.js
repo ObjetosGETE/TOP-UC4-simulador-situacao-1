@@ -66,6 +66,7 @@ function correcao() {
             'valor-eixo-direito': '10',
             'valor-refracao': '1,56',
             'valor-adicao-direito':'+2,00',
+            'valor-altura-direito':'23',
             'valor-dnp-direito': '30'
         };
 
